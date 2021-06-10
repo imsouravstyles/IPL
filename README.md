@@ -10,6 +10,6 @@ Deployed at: _https://ipl-fantasy-app.herokuapp.com/_
 
 • A glimpse of the web app:
 
- ![GIF](readme_resources/teaser.gif)
+ ![GIF](readme_resources/teaser1.gif)
  
 
